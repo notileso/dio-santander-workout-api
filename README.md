@@ -16,7 +16,7 @@ O **FastAPI** é um framework web moderno e de alta performance para construçã
 
 A estrutura do banco de dados foi planejada para suportar as entidades principais de uma competição: atletas, categorias e centros de treinamento.
 
-![MER](/mer.jpg "Modelagem de entidade e relacionamento")
+![MER](/mer.png "Modelagem de entidade e relacionamento")
 
 ## 🛠️ Stack de Tecnologias
 
