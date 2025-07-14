@@ -107,7 +107,7 @@ A seguir estão detalhados os endpoints disponíveis na API.
     -   Retornar apenas `nome`, `centro_treinamento` e `categoria`.
 -   [x] **Manipular Exceção de Integridade de Dados** (`IntegrityError`):
     -   Ao tentar cadastrar um CPF já existente, retornar `status_code: 303` com a mensagem: “Já existe um atleta cadastrado com o cpf: X”.
--   [ ] **Adicionar Paginação**:
+-   [x] **Adicionar Paginação**:
     -   Implementar paginação com `limit` e `offset` utilizando a biblioteca `fastapi-pagination`.
         Foi implementado de forma manual a paginação.
 
@@ -117,4 +117,3 @@ A seguir estão detalhados os endpoints disponíveis na API.
 -   Documentação do Pydantic
 -   Documentação do SQLAlchemy
 -   Documentação do Alembic
--   Documentação do fastapi-pagination
