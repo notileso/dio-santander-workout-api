@@ -1,0 +1,10 @@
+services:
+  workout_db: 
+    image: postgres
+    container_name: workout_db
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_PASSWORD=workout
+      - POSTGRES_USER=workout
+      - POSTGRES_DB=workout
