@@ -1,7 +1,7 @@
 # WorkoutAPI 🏋️
 
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100.0-05998b?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115.0-05998b?style=for-the-badge&logo=fastapi)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-d71f00?style=for-the-badge&logo=sqlalchemy)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-336791?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-24-2496ED?style=for-the-badge&logo=docker)
